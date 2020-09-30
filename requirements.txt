@@ -1,0 +1,5 @@
+Flask==1.1.2
+WTForms==2.3.3
+requests==2.23.0
+beautifulsoup4==4.9.1
+Flask-WTF==0.14.3
